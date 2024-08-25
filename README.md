@@ -12,7 +12,7 @@
 
 ## 📋 Projeto
 
-Missão Prática com o objetivo de implementar um sistema cadastral em Java com persistência em arquivos binários, utilizando conceitos fundamentais da programação orientada a objetos, herança, polimorfismo, e a interface Serializable apresentada no **`Nível 1: Iniciando o Caminho pelo Java`** do **`Mundo 3`** do curso de **`Desenvolvimento Full Stack`** da **`Estácio`**, do semestre de **`2023.4`**, sob a tutoria de Robson Lorbieski.
+Missão Prática com o objetivo de implementar um sistema cadastral em Java com persistência em arquivos binários, utilizando conceitos fundamentais da programação orientada a objetos, herança, polimorfismo, e a interface Serializable apresentada no **`Nível 1: Iniciando o Caminho pelo Java`** do **`Mundo 3`** do curso de **`Desenvolvimento Full Stack`** da **`Estácio`**, do semestre de **`2024.3`**, sob a tutoria de Maria Manso.
 
 Projeto elaborado de acordo com as diretrizes especificadas para a Missão Prática, que podem ser conferidas [**`clicando aqui`**](https://sway.cloud.microsoft/s/rCYHGUtt44OGcxgB/embed).
 
@@ -20,7 +20,7 @@ Projeto elaborado de acordo com as diretrizes especificadas para a Missão Prát
 
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
-Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/iniciando-o-caminho-pelo-java`.
+Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `/Mundo-3---ATIVIDADE-1`.
 
 Além disso, é interessante que você tenha um bom editor para trabalhar com os códigos, dos quais eu recomendo o uso do [NetBeans](https://netbeans.apache.org/front/main/download/index.html).
 
@@ -79,7 +79,7 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
 
 | Aluno                                                  | Matrícula    | E-mail                                      |
 | ------------------------------------------------------ | ------------ | ------------------------------------------- |
-| [Emanuel Roseira Guedes](https://github.com/guedesert) | 202212181407 | [📧](mailto:202212181407@alunos.estacio.br) |
+| [Eli Sidney Bicalho Santos](https://github.com/Elibicalho86) | 202308951289 | [📧](mailto:202212181407@alunos.estacio.br) |
 
 ## 📃 Licença
 
